@@ -1,3 +1,10 @@
+## About me:
+💻 I'm a second-year IT student with a solid foundation in C#, .NET, and SQL. I’m passionate about software development and dedicated to continuously developing my technical skills.
+
+🔍 I enjoy tackling real-world problems, learning new technologies, and connecting with people who share a passion for innovation. I’m currently looking for opportunities to grow, contribute to meaningful projects, and gain practical experience in the IT industry.
+
+💬 Always open to feedback, mentorship, and collaboration.
+
 ## Connect with me!
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dawidchorazy/)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dawid.chorazy03@gmail.com)
@@ -5,6 +12,7 @@
 ## Expertise:
 <img align="left" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img align="left" alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img align="left" alt="ssms" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
