@@ -11,6 +11,7 @@
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 <br/>
+<br/>
 <img align="left" alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="left" alt="rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
 
