@@ -10,6 +10,7 @@
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dawid.chorazy03@gmail.com)
 <br/>
 ## Expertise:
+<p>
 <img align="left" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" style="margin: 5px 8px 5px 0;" />
 <img align="left" alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="margin: 5px 8px 5px 0;" />
 <img align="left" alt="ssms" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" style="margin: 5px 8px 5px 0;" />
@@ -18,6 +19,8 @@
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px 8px 5px 0;" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px 8px 5px 0;" />
 <img align="left" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" style="margin: 5px 8px 5px 0;" />  
-
+</p>
+<p>
 <img align="left" alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="margin: 5px 8px 5px 0;" />
 <img align="left" alt="rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" style="margin: 5px 8px 5px 0;" />
+</p>
